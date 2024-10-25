@@ -7,6 +7,6 @@ Banner is designed so you can also bypass the wavefolder and just use the LFO on
 
 
 ![banners top](banners-top.png)
-![banners pcb](banners_pcb-view.jpg)
-![banners breadboard](banners_bb.jpg)
-![banners schematic](banners_schem.jpg)
+![banners pcb](banners_pcb-view.svg)
+![banners breadboard](banners_bb.svg)
+![banners schematic](banners_schem.svg)
