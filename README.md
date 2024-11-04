@@ -6,6 +6,7 @@ Unlike most wavefolders, it does not use pairs of PNP/NPN transistors. This desi
 Banner is designed so you can also bypass the wavefolder and just use the LFO on an input signal. It also has an additional vactrol for screwing about!
 
 
+![banners](banners-1.jpg)
 ![banners top](banners-top.png)
 ![banners pcb](banners_pcb-view.svg)
 ![banners breadboard](banners_bb.svg)
